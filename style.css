@@ -77,7 +77,7 @@ html {
 .blue-whole {
     height: 35rem;
     width: 25rem;
-    /* background-color: pink; */
+    background-color: pink;
     position: relative;
     left: 60rem;
     /* right: -5rem; */
@@ -125,7 +125,7 @@ html {
 .orange-whole {
     height: 48.1rem;
     width: 25rem;
-    /* background-color: aqua; */
+    background-color: aqua;
     /* border: 2px solid black; */
     right: 13rem;
     position: relative;
