@@ -79,19 +79,19 @@ html {
     width: 25rem;
     background-color: pink;
     position: relative;
-    left: 60rem;
+    left: 66rem;
     /* right: -5rem; */
     /* left: 53rem; */
-    top: -5rem;
+    top: -11rem;
     /* display: flex; */
 }
 
 .blue-bg {
-    height: 35rem;
+    height: 36rem;
     width: 24rem;
     background-color: #0064c1;
     position: absolute;
-    left: 15rem;
+    left: 2rem;
     top: 0rem;
     /* border-bottom-right-radius: 17rem;
     border-bottom-left-radius: 17rem; */
@@ -100,7 +100,7 @@ html {
 }
 
 .blue-bg .blue-person {
-    height: 450px;
+    height: 372px;
     position: absolute;
     top: 6.8rem;
     left: 2.2rem;
